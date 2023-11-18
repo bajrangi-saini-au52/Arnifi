@@ -1,0 +1,51 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+}
+
+.header{ 
+    margin-left: 47%;
+    font-size: larger;
+      
+}
+
+.guest{
+  margin-top: 70px;
+  font-size: larger;
+}
+
+.btn1{
+    background-color: green;
+    cursor: pointer;
+    font-size: larger;
+    margin: 6px;
+    border-radius: 6px;
+    padding: 4px 5px;
+}
+
+.btn2{
+    background-color: blue;
+    cursor: pointer;
+    font-size: larger;
+    margin: 6px;
+    border-radius: 6px;
+    padding: 4px 5px;
+}
+
+.post2{
+    justify-content: center;
+    align-items: center;
+}
+
+.post{
+    margin-left: 28%;
+    margin-top: 30px;
+}
+
+.footer{
+    margin-left: 28%;
+    margin-top: 20px;
+}
+
+ 
